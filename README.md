@@ -38,6 +38,7 @@ Les bibliothèques suivantes sont requises pour faire fonctionner l'application 
    ```bash
    pip install tkinter pillow qrcode
    ```
+
 5. Voici un pip list de mon requirement :
 ```
 Package                   Version
