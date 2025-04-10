@@ -1,4 +1,5 @@
-# Code-QR-Generator-Application-
+# Code-QR-Generator-Application- Sous Linux - Python 3.12.3
+
 
 Application QR Code Wi-Fi
 
@@ -26,30 +27,38 @@ Les bibliothèques suivantes sont requises pour faire fonctionner l'application 
 
 1. Créez un environnement virtuel Python (optionnel mais recommandé) :
    ```bash
-   python -m venv my_env
+   python3 -m venv my_env
    ```
 
 2. Activez l'environnement virtuel :
-   - Sous Windows :
-     ```bash
-     my_env\Scripts\activate
-     ```
-   - Sous macOS/Linux :
-     ```bash
-     source my_env/bin/activate
-     ```
-
-3. Installez les dépendances nécessaires :
+   ```
+   source my_env/bin/activate
+   ```
+4. Installez les dépendances nécessaires :
    ```bash
    pip install tkinter pillow qrcode
    ```
+5. Voici un pip list de mon requirement :
+```
+Package                   Version
+------------------------- -------
+altgraph                  0.17.4
+packaging                 24.2
+pillow                    11.1.0
+pip                       25.0.1
+pyinstaller               6.12.0
+pyinstaller-hooks-contrib 2025.2
+qrcode                    6.1
+setuptools                78.1.0
+six                       1.17.0
 
+```
 ### Lancer l'application
 
 1. Téléchargez le fichier Python `QR_CODE_APPLICATION.py`.
 2. Lancez-le depuis le terminal avec la commande suivante :
    ```bash
-   python QR_CODE_APPLICATION.py
+   python3 QR_CODE_APPLICATION.py
    ```
 
 L'application graphique s'ouvrira alors. Vous pourrez entrer les informations suivantes :
