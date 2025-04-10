@@ -39,21 +39,6 @@ Les bibliothèques suivantes sont requises pour faire fonctionner l'application 
    pip install tkinter pillow qrcode
    ```
 
-5. Voici un pip list de mon requirement :
-```
-Package                   Version
-------------------------- -------
-altgraph                  0.17.4
-packaging                 24.2
-pillow                    11.1.0
-pip                       25.0.1
-pyinstaller               6.12.0
-pyinstaller-hooks-contrib 2025.2
-qrcode                    6.1
-setuptools                78.1.0
-six                       1.17.0
-
-```
 ### Lancer l'application
 
 1. Téléchargez le fichier Python `QR_CODE_APPLICATION.py`.
@@ -96,6 +81,10 @@ Capture d'écran
 Voici une capture d'écran de l'application pour mieux comprendre à quoi elle ressemble :
 
 ![Capture d’écran du 2025-04-10 16-48-49](https://github.com/user-attachments/assets/c575857d-e58a-4983-96fd-374d71e994b4)
+
+Le résultst : 
+
+![wifi_qr_XXX_SFR_5GHZ](https://github.com/user-attachments/assets/936db05c-255c-465c-98dd-b8f46df65159)
 
 
 Auteur
