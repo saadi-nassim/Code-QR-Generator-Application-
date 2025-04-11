@@ -80,11 +80,12 @@ Dossier de sortie
 Capture d'écran
 Voici une capture d'écran de l'application pour mieux comprendre à quoi elle ressemble :
 
-![Capture d’écran du 2025-04-10 16-48-49](https://github.com/user-attachments/assets/c575857d-e58a-4983-96fd-374d71e994b4)
+![Capture d’écran du 2025-04-11 12-03-12](https://github.com/user-attachments/assets/67e99975-191f-4ef3-a3eb-0e7d58787962)
+
 
 Le résultst : 
 
-![wifi_qr_XXX_SFR_5GHZ](https://github.com/user-attachments/assets/936db05c-255c-465c-98dd-b8f46df65159)
+![wifi_qr_XXX_SFR_5GHZ](https://github.com/user-attachments/assets/c0d6a8cd-72be-4c9e-8f60-a5bd61b8f789)
 
 
 Auteur
