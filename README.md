@@ -76,7 +76,7 @@ Pour créer un exécutable autonome (sans besoin d'installer Python), vous pouve
 
 3. Après l'exécution de PyInstaller, vous trouverez l'exécutable dans le dossier `dist`. Vous pouvez désormais distribuer cet exécutable sans avoir besoin de Python.
 
-Generer le fichier reuirements 
+Générez le fichier reuirements 
 
 ```
 pip freeze > requirements.txt
