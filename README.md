@@ -34,6 +34,10 @@ Les bibliothèques suivantes sont requises pour faire fonctionner l'application 
    ```
    source my_env/bin/activate
    ```
+3. Faites un upgrade de pip :
+   ```
+   python -m pip install --upgrade pip
+   ```
 4. Installez les dépendances nécessaires :
    ```bash
    pip install tkinter pillow qrcode
