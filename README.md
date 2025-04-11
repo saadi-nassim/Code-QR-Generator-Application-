@@ -76,6 +76,11 @@ Pour créer un exécutable autonome (sans besoin d'installer Python), vous pouve
 
 3. Après l'exécution de PyInstaller, vous trouverez l'exécutable dans le dossier `dist`. Vous pouvez désormais distribuer cet exécutable sans avoir besoin de Python.
 
+Generer le fichier reuirements 
+
+```
+pip freeze > requirements.txt
+```
 Dossier de sortie
 
 - Le fichier généré sera un exécutable appelé `QR_CODE_APPLICATION.exe` (sur Windows), ou un fichier exécutable sur macOS/Linux sans extension `.exe`.
