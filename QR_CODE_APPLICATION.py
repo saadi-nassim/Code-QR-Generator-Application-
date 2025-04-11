@@ -76,8 +76,8 @@ def choose_color_palette(var, color_display, title):
 def generate():
     wifi_name = wifi_name_var.get()
     password = password_var.get()
-    text_color = text_color_var.get()
-    bg_color = bg_color_var.get()
+    text_color = text_deafault_black_color_var.get()
+    bg_color = bg_default_white_color_var.get()
     if wifi_name and password:
         filename = generate_wifi_qr(wifi_name, password, text_color, bg_color)
         result_label.config(text=f"QR sauvegardé : {filename}")
@@ -157,4 +157,3 @@ signature_label.pack(pady=(10, 5))
 
 
 app.mainloop()
-
